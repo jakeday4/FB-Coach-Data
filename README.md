@@ -1,5 +1,5 @@
-# README
-
+# Football Coach Data
+Jake Day
 
 ### Background & General Information:
 
@@ -122,6 +122,8 @@ but there are a couple of details worth mentioning here:
 
 Please dont’t hesitate to reach out at jakeday4@gmail.com if you have
 any questions or find any issues with the data.
+
+### License Information
 
 [![CC BY
 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
