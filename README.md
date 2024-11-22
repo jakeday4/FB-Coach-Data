@@ -36,17 +36,19 @@ assistant and I collected prospective career data on every coach in my
 original dissertation data. The motivation for collecting this
 prospective data was, in part, to start correcting for one of the
 fundamental flaws of my dissertation (and the papers to come out of
-it)–“survivor bias.” Because I collected retrospective career histories,
-I only had data on coaches who had survived and/or were successful in
-their careers up to that point (coaches kn the data were at different
-stages of their careers). I did not have data on coaches who had not
-survived or had yet to experience success (e.g., a coach who tried to
-break in as graduate assistants for a couple years and then quit or had
-not yet reached the upper echelons of the college football coaching
-profession). One of the potential benefits of collecting subsequent
-career information is that I would have prospective data on a random
-cluster sample of coaches from the 2009 season. The prospective data has
-never been analyzed for publication.
+it)–“[survivorship
+bias](https://en.wikipedia.org/wiki/Survivorship_bias).” Because I
+collected retrospective career histories, I only had data on coaches who
+had survived and/or were successful in their careers up to that point
+(coaches in the data were at different stages of their careers). I did
+not have data on coaches who had not survived or had yet to experience
+success (e.g., a coach who tried to break in as graduate assistants for
+a couple years and then quit or had not yet reached the upper echelons
+of the college football coaching profession). One of the potential
+benefits of collecting subsequent career information is that I would
+have prospective data on a random cluster sample of coaches from the
+2009 season. The prospective data has never been analyzed for
+publication.
 
 ### Included Files
 
@@ -93,15 +95,15 @@ but there are a couple of details worth mentioning here:
   given program and the range of seasons they occupied specific
   positions in that program. In the papers I published, I ended up
   creating a “hierarchical” position indicator, essentially taking their
-  most central and/or hierarchical position at each school. But some
-  coaches held multiple positions during the same season. For example,
-  some head coaches also serve as offensive or defensive coordinators.
-  Some offensive coordinators often serve as quarterbacks coaches during
-  a season. These “extra” positions are often more administrative roles
-  or title bumps (e.g., “Recruiting Coordinator”, “Associate Head
-  Coach”). In looking back at the published articles, I don’t think I
-  was clear about this detail of my measurement. Perhaps these
-  multi-position variables can be used for sensitivity checks or
+  most central and/or hierarchical position at each program/team. But
+  some coaches held multiple positions during the same season. For
+  example, some head coaches also serve as offensive or defensive
+  coordinators. Some offensive coordinators often serve as quarterbacks
+  coaches during a season. These “extra” positions are often more
+  administrative roles or title bumps (e.g., “Recruiting Coordinator”,
+  “Associate Head Coach”). In looking back at the published articles, I
+  don’t think I was clear about this detail of my measurement. Perhaps
+  these multi-position variables can be used for sensitivity checks or
   analyzed on their own. My sense is that certain administrative or
   support positions (e.g., “analyst”, “quality control”, etc.) have
   increased in recent years and perhaps these data capture the beginning
