@@ -120,8 +120,8 @@ but there are a couple of details worth mentioning here:
 - Consistent with the R statistical programming language, `NA` values
   indicate missing data.
 
-Please dont’t hesitate to reach out at jakeday4@gmail.com if you have
-any questions or find any issues with the data.
+Please don’t hesitate to reach out at jakeday4@gmail.com if you have any
+questions or find any issues with the data.
 
 ### License Information
 
