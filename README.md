@@ -56,7 +56,8 @@ This repository contains 3 files:
 
 1)  A person-period csv data file: “coachpp2015.csv”
 
-2)  A codebook describing the variables within the data.
+2)  A codebook describing the variables within the data:
+    “coachpp2015_codebook.html”
 
 3)  The README file you are currently reading.
 
